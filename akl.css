@@ -1,0 +1,29 @@
+body
+{
+	background-color: red;
+}
+div
+{
+	background-color: blue;
+	align-self: center;
+	width: 900px;
+}
+div.d1
+{
+	background-color: green;
+width: 900px;
+}
+div.d2
+{
+	background-color: white;
+	height: 600px;
+}
+div.d3
+{
+	background-color: grey;
+	height: 700px;
+}
+img
+{
+	border-radius: 40%;
+}
